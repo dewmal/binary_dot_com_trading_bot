@@ -2,6 +2,7 @@
 working trading bot using  javascript and 99 lines of codes.
 
 # you can read comprehensive details from here
+[https://blogs.ceylon.app/profitable-binary-trading-app-in-10-minutes/](https://blogs.ceylon.app/profitable-binary-trading-app-in-10-minutes/)
 
 Installation guide  
 
